@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-form/static/css/main.fa9193ae.css",
+    "main.js": "/demo-form/static/js/main.c51e4026.js",
+    "index.html": "/demo-form/index.html",
+    "main.fa9193ae.css.map": "/demo-form/static/css/main.fa9193ae.css.map",
+    "main.c51e4026.js.map": "/demo-form/static/js/main.c51e4026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9193ae.css",
+    "static/js/main.c51e4026.js"
+  ]
+}
